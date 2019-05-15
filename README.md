@@ -1,4 +1,4 @@
-# rumour_animation
+# Rumour Animation
 Maki &amp; Thompson (1973) rumour model.
 
 Animation of simulating the proportion of the population never hearing the rumour.
